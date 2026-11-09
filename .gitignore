@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+animal_detector/dataset/
+animal_detector/samples/
+test_ir_detected.png
+test_ir_inferno_detected.png
